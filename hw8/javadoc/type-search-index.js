@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"DynamicGraph"},{"p":"<Unnamed>","l":"Graph.Edge"},{"p":"<Unnamed>","l":"Graph"},{"p":"<Unnamed>","l":"Main"},{"p":"<Unnamed>","l":"ModifiedDijkstra"},{"p":"<Unnamed>","l":"MyGraph"},{"p":"<Unnamed>","l":"DynamicGraph.Vertex"}];updateSearchResults();
