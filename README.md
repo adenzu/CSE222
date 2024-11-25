@@ -8,3 +8,5 @@
 | hw6             |  98   |
 | hw7             |  65   |
 | hw8             | 170   |
+
+**Letter Grade:** AA
